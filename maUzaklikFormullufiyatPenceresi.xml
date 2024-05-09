@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MatriksWorksheet v="1.0" n="Sayfa1" g="7b5842e5-0d22-4e14-89a5-02b092fb4a60" ds="7" drs="9" dcs="8" rc="36" cc="8" vrc="36" vcc="8" pch="25" prw="35" drh="20" dcw="100" SavedWidth="1153" SavedHeight="800" vglv="True" hglv="True" srh="True" sch="True" vglc="#FF272727" vglt="1" hglc="#FF272727" hglt="1" cert="Try">
+	<Styles>
+		<s id="7">
+			<c b="#FFFFFFFF" ba="#FFFFFFFF" f="#FF000000" z="False" o="False" n="" m="Intellisense" d4="CopyAndMove" d3="CopyAndMove" d2="Default" d1="Default" />
+			<ft f="Verdana" s="12" r="Normal" t="Normal" w="Normal" h="Center" v="Center" o="False" u="False" x="False" k="False" />
+			<p c="ValueUp">
+				<s id="10" p="7" ct="00:00:03">
+					<c b="#FF008000" ba="#FF008000" />
+					<ft />
+				</s>
+			</p>
+			<p c="ValueDown">
+				<s id="11" p="7" ct="00:00:03">
+					<c b="#FFFF0000" ba="#FFFF0000" />
+					<ft />
+				</s>
+			</p>
+		</s>
+		<s id="558" p="7">
+			<c n="0.##" />
+			<ft />
+		</s>
+		<s id="9">
+			<c b="#FFD3D3D3" ba="#FFD3D3D3" f="#FF000000" z="False" o="False" n="" m="TextEdit" d4="CopyAndMove" d3="CopyAndMove" d2="Default" d1="Default">
+				<bb b="#FFC0C0C0" t="1" d="Solid" />
+				<bt b="#FFC0C0C0" t="1" d="Solid" />
+				<bl b="#FFC0C0C0" t="1" d="Solid" />
+				<br b="#FFC0C0C0" t="1" d="Solid" />
+			</c>
+			<ft f="Verdana" s="12" r="Normal" t="Normal" w="Normal" h="Center" v="Center" o="False" u="False" x="False" k="False" />
+		</s>
+		<s id="8">
+			<c b="#FFD3D3D3" ba="#FFD3D3D3" f="#FF000000" z="False" o="False" n="" m="TextEdit" d4="CopyAndMove" d3="CopyAndMove" d2="Default" d1="Default">
+				<bb b="#FFC0C0C0" t="1" d="Solid" />
+				<bt b="#FFC0C0C0" t="1" d="Solid" />
+				<bl b="#FFC0C0C0" t="1" d="Solid" />
+				<br b="#FFC0C0C0" t="1" d="Solid" />
+			</c>
+			<ft f="Verdana" s="12" r="Normal" t="Normal" w="Normal" h="Center" v="Center" o="False" u="False" x="False" k="False" />
+		</s>
+	</Styles>
+	<Columns>
+		<c w="100" />
+		<c w="100" />
+		<c w="100" />
+		<c w="100" />
+		<c w="100" />
+		<c w="100" />
+		<c w="100" />
+		<c w="100" />
+	</Columns>
+	<Rows>
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+		<r h="20" />
+	</Rows>
+	<Cells>
+		<c a="A1" s="558" />
+		<c a="B1" s="558" />
+		<c a="C1" s="558" />
+		<c a="D1" s="558" />
+		<c a="E1" s="558" />
+		<c a="F1" s="558" />
+		<c a="G1" s="558" />
+		<c a="H1" s="558" />
+		<c a="A2" s="558" />
+		<c a="B2" s="558" />
+		<c a="C2" f="MA Tipi" s="558" />
+		<c a="D2" f="Exponential" s="558" />
+		<c a="E2" s="558" />
+		<c a="F2" s="558" />
+		<c a="G2" s="558" />
+		<c a="H2" s="558" />
+		<c a="A3" s="558" />
+		<c a="B3" s="558" />
+		<c a="C3" f="MA Periyot" s="558" />
+		<c a="D3" f="50" s="558" />
+		<c a="E3" s="558" />
+		<c a="F3" s="558" />
+		<c a="G3" s="558" />
+		<c a="H3" s="558" />
+		<c a="A4" s="558" />
+		<c a="B4" s="558" />
+		<c a="C4" f="Sorgu Periyot" s="558" />
+		<c a="D4" f="Day" s="558" />
+		<c a="E4" s="558" />
+		<c a="F4" s="558" />
+		<c a="G4" s="558" />
+		<c a="H4" s="558" />
+		<c a="A5" f="Sira" s="558" />
+		<c a="B5" f="Sembol" s="558" />
+		<c a="C5" f="Kapanis" s="558" />
+		<c a="D5" f="ma" s="558" />
+		<c a="E5" f="maUzaklik" s="558" />
+		<c a="F5" f="Yuzdesi" s="558" />
+		<c a="G5" s="558" />
+		<c a="H5" s="558" />
+		<c a="A6" f="1" s="558" />
+		<c a="B6" f="=GetSymbol(Bist30,A6)" s="558" />
+		<c a="C6" f="=B6.KAPANIS_T.$D$4" s="558" />
+		<c a="D6" f="=MOV(B6.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E6" f="=C6-D6" s="558" />
+		<c a="F6" f="=E6/D6*100" s="558" />
+		<c a="G6" s="558" />
+		<c a="H6" s="558" />
+		<c a="A7" f="2" s="558" />
+		<c a="B7" f="=GetSymbol(Bist30,A7)" s="558" />
+		<c a="C7" f="=B7.KAPANIS_T.$D$4" s="558" />
+		<c a="D7" f="=MOV(B7.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E7" f="=C7-D7" s="558" />
+		<c a="F7" f="=E7/D7*100" s="558" />
+		<c a="G7" s="558" />
+		<c a="H7" s="558" />
+		<c a="A8" f="3" s="558" />
+		<c a="B8" f="=GetSymbol(Bist30,A8)" s="558" />
+		<c a="C8" f="=B8.KAPANIS_T.$D$4" s="558" />
+		<c a="D8" f="=MOV(B8.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E8" f="=C8-D8" s="558" />
+		<c a="F8" f="=E8/D8*100" s="558" />
+		<c a="G8" s="558" />
+		<c a="H8" s="558" />
+		<c a="A9" f="4" s="558" />
+		<c a="B9" f="=GetSymbol(Bist30,A9)" s="558" />
+		<c a="C9" f="=B9.KAPANIS_T.$D$4" s="558" />
+		<c a="D9" f="=MOV(B9.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E9" f="=C9-D9" s="558" />
+		<c a="F9" f="=E9/D9*100" s="558" />
+		<c a="G9" s="558" />
+		<c a="H9" s="558" />
+		<c a="A10" f="5" s="558" />
+		<c a="B10" f="=GetSymbol(Bist30,A10)" s="558" />
+		<c a="C10" f="=B10.KAPANIS_T.$D$4" s="558" />
+		<c a="D10" f="=MOV(B10.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E10" f="=C10-D10" s="558" />
+		<c a="F10" f="=E10/D10*100" s="558" />
+		<c a="G10" s="558" />
+		<c a="H10" s="558" />
+		<c a="A11" f="6" s="558" />
+		<c a="B11" f="=GetSymbol(Bist30,A11)" s="558" />
+		<c a="C11" f="=B11.KAPANIS_T.$D$4" s="558" />
+		<c a="D11" f="=MOV(B11.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E11" f="=C11-D11" s="558" />
+		<c a="F11" f="=E11/D11*100" s="558" />
+		<c a="G11" s="558" />
+		<c a="H11" s="558" />
+		<c a="A12" f="7" s="558" />
+		<c a="B12" f="=GetSymbol(Bist30,A12)" s="558" />
+		<c a="C12" f="=B12.KAPANIS_T.$D$4" s="558" />
+		<c a="D12" f="=MOV(B12.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E12" f="=C12-D12" s="558" />
+		<c a="F12" f="=E12/D12*100" s="558" />
+		<c a="G12" s="558" />
+		<c a="H12" s="558" />
+		<c a="A13" f="8" s="558" />
+		<c a="B13" f="=GetSymbol(Bist30,A13)" s="558" />
+		<c a="C13" f="=B13.KAPANIS_T.$D$4" s="558" />
+		<c a="D13" f="=MOV(B13.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E13" f="=C13-D13" s="558" />
+		<c a="F13" f="=E13/D13*100" s="558" />
+		<c a="G13" s="558" />
+		<c a="H13" s="558" />
+		<c a="A14" f="9" s="558" />
+		<c a="B14" f="=GetSymbol(Bist30,A14)" s="558" />
+		<c a="C14" f="=B14.KAPANIS_T.$D$4" s="558" />
+		<c a="D14" f="=MOV(B14.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E14" f="=C14-D14" s="558" />
+		<c a="F14" f="=E14/D14*100" s="558" />
+		<c a="G14" s="558" />
+		<c a="H14" s="558" />
+		<c a="A15" f="10" s="558" />
+		<c a="B15" f="=GetSymbol(Bist30,A15)" s="558" />
+		<c a="C15" f="=B15.KAPANIS_T.$D$4" s="558" />
+		<c a="D15" f="=MOV(B15.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E15" f="=C15-D15" s="558" />
+		<c a="F15" f="=E15/D15*100" s="558" />
+		<c a="G15" s="558" />
+		<c a="H15" s="558" />
+		<c a="A16" f="11" s="558" />
+		<c a="B16" f="=GetSymbol(Bist30,A16)" s="558" />
+		<c a="C16" f="=B16.KAPANIS_T.$D$4" s="558" />
+		<c a="D16" f="=MOV(B16.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E16" f="=C16-D16" s="558" />
+		<c a="F16" f="=E16/D16*100" s="558" />
+		<c a="G16" s="558" />
+		<c a="H16" s="558" />
+		<c a="A17" f="12" s="558" />
+		<c a="B17" f="=GetSymbol(Bist30,A17)" s="558" />
+		<c a="C17" f="=B17.KAPANIS_T.$D$4" s="558" />
+		<c a="D17" f="=MOV(B17.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E17" f="=C17-D17" s="558" />
+		<c a="F17" f="=E17/D17*100" s="558" />
+		<c a="G17" s="558" />
+		<c a="H17" s="558" />
+		<c a="A18" f="13" s="558" />
+		<c a="B18" f="=GetSymbol(Bist30,A18)" s="558" />
+		<c a="C18" f="=B18.KAPANIS_T.$D$4" s="558" />
+		<c a="D18" f="=MOV(B18.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E18" f="=C18-D18" s="558" />
+		<c a="F18" f="=E18/D18*100" s="558" />
+		<c a="G18" s="558" />
+		<c a="H18" s="558" />
+		<c a="A19" f="14" s="558" />
+		<c a="B19" f="=GetSymbol(Bist30,A19)" s="558" />
+		<c a="C19" f="=B19.KAPANIS_T.$D$4" s="558" />
+		<c a="D19" f="=MOV(B19.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E19" f="=C19-D19" s="558" />
+		<c a="F19" f="=E19/D19*100" s="558" />
+		<c a="G19" s="558" />
+		<c a="H19" s="558" />
+		<c a="A20" f="15" s="558" />
+		<c a="B20" f="=GetSymbol(Bist30,A20)" s="558" />
+		<c a="C20" f="=B20.KAPANIS_T.$D$4" s="558" />
+		<c a="D20" f="=MOV(B20.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E20" f="=C20-D20" s="558" />
+		<c a="F20" f="=E20/D20*100" s="558" />
+		<c a="G20" s="558" />
+		<c a="H20" s="558" />
+		<c a="A21" f="16" s="558" />
+		<c a="B21" f="=GetSymbol(Bist30,A21)" s="558" />
+		<c a="C21" f="=B21.KAPANIS_T.$D$4" s="558" />
+		<c a="D21" f="=MOV(B21.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E21" f="=C21-D21" s="558" />
+		<c a="F21" f="=E21/D21*100" s="558" />
+		<c a="G21" s="558" />
+		<c a="H21" s="558" />
+		<c a="A22" f="17" s="558" />
+		<c a="B22" f="=GetSymbol(Bist30,A22)" s="558" />
+		<c a="C22" f="=B22.KAPANIS_T.$D$4" s="558" />
+		<c a="D22" f="=MOV(B22.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E22" f="=C22-D22" s="558" />
+		<c a="F22" f="=E22/D22*100" s="558" />
+		<c a="G22" s="558" />
+		<c a="H22" s="558" />
+		<c a="A23" f="18" s="558" />
+		<c a="B23" f="=GetSymbol(Bist30,A23)" s="558" />
+		<c a="C23" f="=B23.KAPANIS_T.$D$4" s="558" />
+		<c a="D23" f="=MOV(B23.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E23" f="=C23-D23" s="558" />
+		<c a="F23" f="=E23/D23*100" s="558" />
+		<c a="G23" s="558" />
+		<c a="H23" s="558" />
+		<c a="A24" f="19" s="558" />
+		<c a="B24" f="=GetSymbol(Bist30,A24)" s="558" />
+		<c a="C24" f="=B24.KAPANIS_T.$D$4" s="558" />
+		<c a="D24" f="=MOV(B24.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E24" f="=C24-D24" s="558" />
+		<c a="F24" f="=E24/D24*100" s="558" />
+		<c a="G24" s="558" />
+		<c a="H24" s="558" />
+		<c a="A25" f="20" s="558" />
+		<c a="B25" f="=GetSymbol(Bist30,A25)" s="558" />
+		<c a="C25" f="=B25.KAPANIS_T.$D$4" s="558" />
+		<c a="D25" f="=MOV(B25.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E25" f="=C25-D25" s="558" />
+		<c a="F25" f="=E25/D25*100" s="558" />
+		<c a="G25" s="558" />
+		<c a="H25" s="558" />
+		<c a="A26" f="21" s="558" />
+		<c a="B26" f="=GetSymbol(Bist30,A26)" s="558" />
+		<c a="C26" f="=B26.KAPANIS_T.$D$4" s="558" />
+		<c a="D26" f="=MOV(B26.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E26" f="=C26-D26" s="558" />
+		<c a="F26" f="=E26/D26*100" s="558" />
+		<c a="G26" s="558" />
+		<c a="H26" s="558" />
+		<c a="A27" f="22" s="558" />
+		<c a="B27" f="=GetSymbol(Bist30,A27)" s="558" />
+		<c a="C27" f="=B27.KAPANIS_T.$D$4" s="558" />
+		<c a="D27" f="=MOV(B27.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E27" f="=C27-D27" s="558" />
+		<c a="F27" f="=E27/D27*100" s="558" />
+		<c a="G27" s="558" />
+		<c a="H27" s="558" />
+		<c a="A28" f="23" s="558" />
+		<c a="B28" f="=GetSymbol(Bist30,A28)" s="558" />
+		<c a="C28" f="=B28.KAPANIS_T.$D$4" s="558" />
+		<c a="D28" f="=MOV(B28.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E28" f="=C28-D28" s="558" />
+		<c a="F28" f="=E28/D28*100" s="558" />
+		<c a="G28" s="558" />
+		<c a="H28" s="558" />
+		<c a="A29" f="24" s="558" />
+		<c a="B29" f="=GetSymbol(Bist30,A29)" s="558" />
+		<c a="C29" f="=B29.KAPANIS_T.$D$4" s="558" />
+		<c a="D29" f="=MOV(B29.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E29" f="=C29-D29" s="558" />
+		<c a="F29" f="=E29/D29*100" s="558" />
+		<c a="G29" s="558" />
+		<c a="H29" s="558" />
+		<c a="A30" f="25" s="558" />
+		<c a="B30" f="=GetSymbol(Bist30,A30)" s="558" />
+		<c a="C30" f="=B30.KAPANIS_T.$D$4" s="558" />
+		<c a="D30" f="=MOV(B30.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E30" f="=C30-D30" s="558" />
+		<c a="F30" f="=E30/D30*100" s="558" />
+		<c a="G30" s="558" />
+		<c a="H30" s="558" />
+		<c a="A31" f="26" s="558" />
+		<c a="B31" f="=GetSymbol(Bist30,A31)" s="558" />
+		<c a="C31" f="=B31.KAPANIS_T.$D$4" s="558" />
+		<c a="D31" f="=MOV(B31.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E31" f="=C31-D31" s="558" />
+		<c a="F31" f="=E31/D31*100" s="558" />
+		<c a="G31" s="558" />
+		<c a="H31" s="558" />
+		<c a="A32" f="27" s="558" />
+		<c a="B32" f="=GetSymbol(Bist30,A32)" s="558" />
+		<c a="C32" f="=B32.KAPANIS_T.$D$4" s="558" />
+		<c a="D32" f="=MOV(B32.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E32" f="=C32-D32" s="558" />
+		<c a="F32" f="=E32/D32*100" s="558" />
+		<c a="G32" s="558" />
+		<c a="H32" s="558" />
+		<c a="A33" f="28" s="558" />
+		<c a="B33" f="=GetSymbol(Bist30,A33)" s="558" />
+		<c a="C33" f="=B33.KAPANIS_T.$D$4" s="558" />
+		<c a="D33" f="=MOV(B33.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E33" f="=C33-D33" s="558" />
+		<c a="F33" f="=E33/D33*100" s="558" />
+		<c a="G33" s="558" />
+		<c a="H33" s="558" />
+		<c a="A34" f="29" s="558" />
+		<c a="B34" f="=GetSymbol(Bist30,A34)" s="558" />
+		<c a="C34" f="=B34.KAPANIS_T.$D$4" s="558" />
+		<c a="D34" f="=MOV(B34.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E34" f="=C34-D34" s="558" />
+		<c a="F34" f="=E34/D34*100" s="558" />
+		<c a="G34" s="558" />
+		<c a="H34" s="558" />
+		<c a="A35" f="30" s="558" />
+		<c a="B35" f="=GetSymbol(Bist30,A35)" s="558" />
+		<c a="C35" f="=B35.KAPANIS_T.$D$4" s="558" />
+		<c a="D35" f="=MOV(B35.KAPANIS_T.$D$4,$D$3,$D$2)" s="558" />
+		<c a="E35" f="=C35-D35" s="558" />
+		<c a="F35" f="=E35/D35*100" s="558" />
+		<c a="G35" s="558" />
+		<c a="H35" s="558" />
+		<c a="A36" s="558" />
+		<c a="B36" s="558" />
+		<c a="C36" s="558" />
+		<c a="D36" s="558" />
+		<c a="E36" s="558" />
+		<c a="F36" s="558" />
+		<c a="G36" s="558" />
+		<c a="H36" s="558" />
+	</Cells>
+</MatriksWorksheet>
